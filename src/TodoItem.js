@@ -4,7 +4,7 @@ function TodoItem() {
   return (
     <div>
       <input type="checkbox" />
-      <p>Placeholder text here</p>
+      <p>If YES mark tick and if NO mark cross </p>
     </div>
   );
 }
